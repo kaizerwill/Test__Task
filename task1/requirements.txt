@@ -1,0 +1,8 @@
+pandas
+numpy
+re
+nltk
+torch
+sklearn
+warnings
+transformers
